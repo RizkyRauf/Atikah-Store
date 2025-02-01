@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { Product } from '@/types'
 
-export default function ProductCard({ title, description, price, imageUrl, affiliateLink }: Product) {
+export default function ProductCard({ title, description, imageUrl, affiliateLink }: Product) {
   return (
     <div className="border rounded-lg shadow-lg p-4 transition-transform hover:scale-105">
       <div className="relative h-48 mb-4">
