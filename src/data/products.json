@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Nota 15 - 55",
+      "description": "Link Checkout Shopee 15.000 - 55.000",
+      "price": "15.000 - 50.000",
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lmax81je9sqc65.webp",
+      "affiliateLink": "https://shopee.co.id/Nota-live-15-50-i.108370387.19593698459",
+      "category": "Shopee"
+    },
+    {
+      "id": 4,
+      "title": "Nota 60 - 105",
+      "description": "Link Checkout Shopee 60.000 - 105.000",
+      "price": "15.000 - 50.000",
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lmax81je9sqc65.webp",
+      "affiliateLink": "https://shopee.co.id/Nota-live-60-~-105-i.108370387.22656485944",
+      "category": "Shopee"
+    },
+    {
+      "id": 5,
+      "title": "Nota 110 - 165",
+      "description": "Link Checkout Shopee 110.000 - 165.000",
+      "price": "15.000 - 50.000",
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lmax81je9sqc65.webp",
+      "affiliateLink": "https://shopee.co.id/nota-live-110-165-i.108370387.23360196191",
+      "category": "Shopee"
+    }
+  ]
+}
